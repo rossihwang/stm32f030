@@ -21,7 +21,7 @@ ActionState=1
 Enabled=0
 ShowSource=1
 [DebugChecksum]
-Checksum=-1423770838
+Checksum=1185929284
 [Exceptions]
 StopOnUncaught=_ 0
 StopOnThrow=_ 0
@@ -91,5 +91,6 @@ mode=0
 [Breakpoints2]
 Count=0
 [Aliases]
-Count=0
-SuppressDialog=0
+A0=_ "E:\资料\STM32工程\我的工程\M030\TIM\startup\startup_stm32f0xx.s" "E:\资料\STM32工程\我的工程\M030\Library\startup\startup_stm32f0xx.s"
+Count=1
+SuppressDialog=1
