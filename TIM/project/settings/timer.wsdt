@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>timer/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>211</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Select-Ambiguous-Definitions>
+        
+        
+        
+      <ColumnWidth0>439</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>753</ColumnWidth2></Select-Ambiguous-Definitions>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>914</ColumnWidth1><ColumnWidth2>243</ColumnWidth2><ColumnWidth3>60</ColumnWidth3></Build>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12572-14415</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>timer</ExpandedNode><ExpandedNode>timer/cmsis</ExpandedNode><ExpandedNode>timer/cmsis/system_stm32f0xx.c</ExpandedNode><ExpandedNode>timer/lib</ExpandedNode><ExpandedNode>timer/startup</ExpandedNode><ExpandedNode>timer/user</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12907-18297</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-20540-20201</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\src\stm32f0xx_tim.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>271</YPos2><SelStart2>11656</SelStart2><SelEnd2>11656</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\startup\startup_stm32f0xx.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>81</YPos2><SelStart2>4014</SelStart2><SelEnd2>4014</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\src\stm32f0xx_rcc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1220</YPos2><SelStart2>49036</SelStart2><SelEnd2>49055</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\cmsis\stm32f0xx.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>220</YPos2><SelStart2>13484</SelStart2><SelEnd2>13493</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\inc\stm32f0xx_tim.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>333</YPos2><SelStart2>15296</SelStart2><SelEnd2>15314</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\src\stm32f0xx_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>311</YPos2><SelStart2>12302</SelStart2><SelEnd2>12364</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\user\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>78</YPos2><SelStart2>3238</SelStart2><SelEnd2>3238</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\user\stm32f0xx_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>90</YPos2><SelStart2>3410</SelStart2><SelEnd2>3410</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\cmsis\system_stm32f0xx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>309</YPos2><SelStart2>11662</SelStart2><SelEnd2>11662</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\library\src\stm32f0xx_misc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>71</YPos2><SelStart2>5048</SelStart2><SelEnd2>5048</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\CMSIS\Include\core_cmFunc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>256</YPos2><SelStart2>189</SelStart2><SelEnd2>189</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\CMSIS\Include\core_cm0.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>635</YPos2><SelStart2>31336</SelStart2><SelEnd2>31336</SelEnd2></Tab><ActiveTab>11</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-011dd538><key>iaridepm.enu1</key></Toolbar-011dd538></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>393</Bottom><Right>302</Right><x>-2</x><y>-2</y><xscreen>191</xscreen><yscreen>230</yscreen><sizeHorzCX>163248</sizeHorzCX><sizeHorzCY>358814</sizeHorzCY><sizeVertCX>259829</sizeVertCX><sizeVertCY>616225</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>203</Bottom><Right>1172</Right><x>-2</x><y>-2</y><xscreen>1174</xscreen><yscreen>205</yscreen><sizeHorzCX>1003419</sizeHorzCX><sizeHorzCY>319813</sizeHorzCY><sizeVertCX>163248</sizeVertCX><sizeVertCY>358814</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
