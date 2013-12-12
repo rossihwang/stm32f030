@@ -294,9 +294,9 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>$PROJ_DIR$\..\cmsis</state>
           <state>$PROJ_DIR$\..\user</state>
-          <state>$PROJ_DIR$\..\library\inc</state>
+          <state>$PROJ_DIR$\..\..\Library\periph_library\inc</state>
+          <state>$PROJ_DIR$\..\..\Library\cmsis</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
@@ -693,7 +693,7 @@
         </option>
         <option>
           <name>IlinkIcfFile</name>
-          <state>$TOOLKIT_DIR$\config\linker\ST\stm32f050x4.icf</state>
+          <state>$PROJ_DIR$\..\..\Library\iar\stm32f0xx_flash.icf</state>
         </option>
         <option>
           <name>IlinkIcfFileSlave</name>
@@ -1843,7 +1843,7 @@
       <name>$PROJ_DIR$\..\cmsis\stm32f0xx.h</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\cmsis\system_stm32f0xx.c</name>
+      <name>$PROJ_DIR$\..\..\Library\cmsis\system_stm32f0xx.c</name>
     </file>
     <file>
       <name>$PROJ_DIR$\..\cmsis\system_stm32f0xx.h</name>
@@ -1852,22 +1852,22 @@
   <group>
     <name>lib</name>
     <file>
-      <name>$PROJ_DIR$\..\library\src\stm32f0xx_gpio.c</name>
+      <name>$PROJ_DIR$\..\..\Library\periph_library\src\stm32f0xx_gpio.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\library\src\stm32f0xx_misc.c</name>
+      <name>$PROJ_DIR$\..\..\Library\periph_library\src\stm32f0xx_misc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\library\src\stm32f0xx_rcc.c</name>
+      <name>$PROJ_DIR$\..\..\Library\periph_library\src\stm32f0xx_rcc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\library\src\stm32f0xx_usart.c</name>
+      <name>$PROJ_DIR$\..\..\Library\periph_library\src\stm32f0xx_usart.c</name>
     </file>
   </group>
   <group>
     <name>startup</name>
     <file>
-      <name>$PROJ_DIR$\..\startup\startup_stm32f0xx.s</name>
+      <name>$PROJ_DIR$\..\..\Library\startup\startup_stm32f0xx.s</name>
     </file>
   </group>
   <group>
